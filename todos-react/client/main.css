@@ -127,12 +127,6 @@ li.checked .text
     text-decoration: line-through;
 }
 
-li.private
-{
-    border-color: #ddd;
-    background: #eee;
-}
-
 header .hide-completed
 {
     display: block;
