@@ -6,6 +6,7 @@
   },
   "dependencies": {
     "classnames": "^2.2.5",
+    "debug": "^2.2.0",
     "meteor-node-stubs": "~0.2.0",
     "node-gyp": "^3.4.0",
     "react": "^15.3.2",
